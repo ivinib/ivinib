@@ -4,11 +4,15 @@
 - 🌱 Atualmente estou aprendendo sobre frameworks front-end e back-end
 - 📫 Meu Linkedin: linkedin.com/in/vinicius-a-874708120
 
-<English>
+
+
 - 👋 Hi, I’m Vinícius Augusto Basso
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning about front-end and back-end frameworks
 - 📫 How to reach me: linkedin.com/in/vinicius-a-874708120
+
+
+
 
 
   
