@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou aprendendo sobre frameworks front-end e back-end
 - 📫 Meu Linkedin: linkedin.com/in/vinicius-a-874708120
 
-
 <English>
 - 👋 Hi, I’m Vinícius Augusto Basso
 - 👀 I’m interested in web development
@@ -12,6 +11,7 @@
 - 📫 How to reach me: linkedin.com/in/vinicius-a-874708120
 
 
+  
 Alguns dos meus projetos/Some of my projects
 
 -API Java Spring-Boot com as operações básicas de CRUD com banco de dados MongoDB.
